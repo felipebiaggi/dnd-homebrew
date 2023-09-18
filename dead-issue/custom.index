@@ -4,7 +4,7 @@
         <name>Dead Issue Homebrew</name>
         <description>Foo</description>
         <update version="0.0.1">
-            <file name="custom.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.xml"/>
+            <file name="custom.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.index"/>
         </update>
     </info>
     <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
