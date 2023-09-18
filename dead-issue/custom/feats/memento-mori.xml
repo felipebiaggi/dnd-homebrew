@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info><b>Memento Mori</b>
+        <description><i>Habilidade Mítica(lv 2). Ativa</i></description>
+        <update version="0.0.1">
+            <file name="memento-mori.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/memento-mori.xml" />
+        </update>
+    </info>
+    <element name="Memento Mori" type="Feat" source="Dead Issue Homebrew" id="ID_HOMEBREW_FEAT_MEMENTO_MORI">
+        <description>
+            <p>Como governante da Shadowfell, a Dama tem um papel essencial para com a ordem natural do universo – ou pelomenos é o que se acredita. Ela tem como dever, guiar as almas dos mortos através da Shadowfell em direção aos planos exteriores, seus “destinos finais” por assim dizer.</p>
+            <p>Até onde se sabe porém, ela não é a responsável por julgar/decidir o destino de tais almas, o que torna sua fixação/desejo por mementos e memórias das mesmas... peculiar...</p>
+            <p>De qualquer forma, é comum para um shadar-kai ofertar mementos de pessoas mortas, objetos de grande ligação e/ou valor sentimental a mesma como forma de tributo. Estranhamente, você descobriu ser capaz de acessar memórias/conhecimento contido em tais mementos, uma habilidade que nem mesmo a lendária “Mão da Dama” possuía... de fato, até onde você sabe, ninguém além da própria Dama possui tal habilidade!</p>
+            <p><i>-“... O que está acontecendo?!” Confused/concerned tiefling noises</i></p>
+            <p>Uma vez por long rest, você é capaz de tocar um objeto e acessar memórias contidas no mesmo desde que:</p>
+            <ul>
+                <li>O objeto tenha tido um grande valor/significado para seu proprietário.</li>
+                <li>O proprietário de tal objeto já tenha perecido(não confirmado).</li>
+            </ul>
+            <p>As visões vão ficando progressivamente mais profundas a medida que esta habilidade é usada consecutivamente em um mesmo objeto possibilitando revelar conhecimentos mais marcantes, porém o esforço necessário para acessa-las – assim como seu cansaço/desgaste físico e mental - aumenta na mesma proporção.</p>
+            <p>Também é possível usar esta habilidade mais de uma vez entre Long Rests, mas o desgaste será significativamente maior.</p>
+            <p><b>Nota:</b> Níveis de exaustão a ser decidido pelo DM.</p>
+            <p><b>Nota²:</b> É possível compartilhar estas visões com pessoas que estejam em contato físico direto quando estas ocorrem</p>
+        </description>
+        <sheet usage="1/Long Rest – possibilidade de falha">
+        </sheet>
+    </element>
+</elements>
