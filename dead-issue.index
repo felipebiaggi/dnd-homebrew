@@ -8,6 +8,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="custom.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.index" />
+		<file name="custom.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.xml" />
 	</files>
 </index>
