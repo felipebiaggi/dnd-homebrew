@@ -1,6 +1,4 @@
 # repositoryname
-additional content to extend [Aurora](https://aurorabuilder.com/), by Gil
-
 index url: https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue.index
 
 ---
