@@ -10,6 +10,7 @@
 			<p>Bar</p>
 		</description>
 		<setters>
+			<set name="url">https://github.com/felipebiaggi/dnd-homebrew/tree/master</set>
 			<set name="abbreviation">DEH</set>
 			<set name="official">false</set>
 			<set name="core">false</set>
