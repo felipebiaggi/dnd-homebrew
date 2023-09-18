@@ -7,8 +7,10 @@
 		</update>
 	</info>
 	<files>
+
+		<file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
+
 		<!-- backgrounds -->
 		<file name="background-acolyte-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/background/background-acolyte-lilue.xml" />
 	</files>
 </index>
-

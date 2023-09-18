@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<elements>
+    <info>
+        <update version="0.0.1">
+            <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
+        </update>
+    </info>
+    <element>
+        <description>
+            <p>Custom rules</p>
+        </description>
+
+    </element>
+</elements>
