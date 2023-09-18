@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Dead Issue Homebrew Spells</name>
+        <update version="0.0.1">
+            <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/spells.index"/>
+        </update>
+    </info>
+    <files>
+        <file name="pale-flame-blade.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/cantrips/pale-flame-blade.xml" />
+    </files>
+</index>

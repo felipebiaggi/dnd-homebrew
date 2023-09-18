@@ -12,4 +12,8 @@
 
     <!-- backgrounds -->
     <file name="background-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/backgrounds/background-lilue.xml" />
+
+    <!-- spells-->
+    <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/spells.index"/>
+    
 </index>
