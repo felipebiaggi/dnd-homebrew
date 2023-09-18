@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+		<update version="0.0.1">
+			<file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml" />
+		</update>
+	</info>
+    <element name="Dead Issue Homebrew" type="Source" source="Core" id="ID_DEAR_ISSUE_HOMEBREW">
+		<description>
+			<p>Bar</p>
+		</description>
+		<setters>
+			<set name="abbreviation">DEH</set>
+			<set name="official">true</set>
+			<set name="core">true</set>
+			<set name="release">20230101</set>
+		</setters>
+	</element>
+</elements>

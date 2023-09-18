@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Dead Issue Homebrew</name>
+        <description>Foo</description>
+        <update version="0.0.1">
+            <file name="custom.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.xml"/>
+        </update>
+    </info>
+</index>
