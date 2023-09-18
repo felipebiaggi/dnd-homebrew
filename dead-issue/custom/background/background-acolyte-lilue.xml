@@ -2,8 +2,9 @@
 <elements>
 	<info>
 		<name>Acolyte Lilue</name>
+		<description>Acolyte Background Lilue</description>
 		<update version="0.0.1">
-			<file name="background-acolyte-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/background-acolyte-lilue.xml" />
+			<file name="background-acolyte-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/background/background-acolyte-lilue.xml" />
 		</update>
 	</info>
 
