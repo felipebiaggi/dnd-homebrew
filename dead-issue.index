@@ -2,6 +2,7 @@
 <index>
 	<info>
 		<name>Custom</name>
+		<author url="https://github.com/felipebiaggi/dnd-homebrew/tree/master">Felipe Biaggi Carvalho</author>
 		<update version="0.0.1">
 			<file name="dead-issue.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue.index" />
 		</update>
