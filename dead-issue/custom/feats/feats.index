@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<index>
+    <info>
+        <name>Dead Issue Homebrew Spells</name>
+        <update version="0.0.1">
+            <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/feats.index" />
+        </update>
+    </info>
+    <files>
+        <file name="lady-of-shadow-and-mystery.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/lady-of-shadow-and-mystery.xml" />
+    </files>
+</index>
