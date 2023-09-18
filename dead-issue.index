@@ -2,7 +2,7 @@
 <index>
 	<info>
 		<name>Your Content</name>
-		<update version="1.0.0">
+		<update version="0.0.1">
 			<file name="user-yourname.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue.index" />
 		</update>
 	</info>
