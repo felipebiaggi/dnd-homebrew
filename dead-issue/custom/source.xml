@@ -6,7 +6,7 @@
             <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
         </update>
     </info>
-    <element>
+    <element name="Homebrew - Dead Issue" type="Source" source="Homebrew" id="ID_HOMEBREW_SOURCE">
         <description>
             <p>Custom rules</p>
         </description>
