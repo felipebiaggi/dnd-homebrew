@@ -7,7 +7,7 @@
         </update>
     </info>
 
-    <element name="Lady of Shadow and Mystery" type="Item" source="Dead Issue Homebrew" id="ID_HOMEBREW_LADY_OF_SHADOW_AND_MYSTERY">
+    <element name="Lady of Shadow and Mystery" type="Feat" source="Dead Issue Homebrew" id="ID_HOMEBREW_FEAT_LADY_OF_SHADOW_AND_MYSTERY">
         <description>
 			<p>É um fato conhecido entre os shadar-kai que a dama costuma comunicar-se através de sinais crípticos e misteriosos. É parte do dever de um shadar-kai interpretar tais sinais para que possam cumprir com a vontade da mesma.</p>
 			<p>No passado porém, existiu uma shadar-kai que recebia mensagens um tanto diferentes, em forma de visões.</p>
@@ -19,10 +19,5 @@
             </ul>
             <p><b>Nota:</b> Talvez seja possível compartilhar estas visões com pessoas que estejam em contato físico direto quando estas ocorrem.</p>
         </description>
-        <setters>
-			<set name="category">Additional Feature</set>
-			<set name="slot">misc</set>
-			<set name="inventory-hidden">true</set>
-		</setters>
     </element>
 </elements>
