@@ -20,15 +20,9 @@
             <p><b>Nota:</b> Talvez seja possível compartilhar estas visões com pessoas que estejam em contato físico direto quando estas ocorrem.</p>
         </description>
         <sheet usage="Passivo">
-            <p>É um fato conhecido entre os shadar-kai que a dama costuma comunicar-se através de sinais crípticos e misteriosos. É parte do dever de um shadar-kai interpretar tais sinais para que possam cumprir com a vontade da mesma.</p>
-			<p>No passado porém, existiu uma shadar-kai que recebia mensagens um tanto diferentes, em forma de visões.</p>
-            <p>“Divinação” não faz parte do portifólio da dama, o que torna este fato um tanto estranho, mas como se trata de uma deusa, não é impossível que ela tenha tal habilidade. A shadar-kai, considerada uma representante de sua deusa no plano material, ficou conhecida como “Mão da Dama”.</p>
-            <p>Ao que tudo indica, você compartilha desta bênção.</p>
-            <ul>
-                <li><p><b>Tua vontade me guia:</b> Mensagens crípticas contendo a “vontade da Dama”. Uma missão, uma tarefa a ser cumprida. Geralmente acontecem quando dormindo.</p></li>
-                <li><p><b>Tuas asas me guardam:</b> Mensagem de alerta sobre um possível perigo em um futuro próximo.</p></li>
-            </ul>
-            <p><b>Nota:</b> Talvez seja possível compartilhar estas visões com pessoas que estejam em contato físico direto quando estas ocorrem.</p>
+            <description>Tua vontade me guia: Mensagens crípticas contendo a “vontade da Dama”. Uma missão, uma tarefa a ser cumprida. Geralmente acontecem quando dormindo.
+                Tuas asas me guardam: Mensagem de alerta sobre um possível perigo em um futuro próximo.
+            </description>
         </sheet>
     </element>
 </elements>
