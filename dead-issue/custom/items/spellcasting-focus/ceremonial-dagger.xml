@@ -9,8 +9,17 @@
     </info>
 
     <element name="Ceremonial Dagger" type="Item" source="Dead Issue Homebrew" id="ID_HOMEBREW_CEREMONIAL_DAGGER">
-        <p>Foco Arcano, uma adaga de lâmina negra com cabo estilizado para parecer um crânio de ravena, com duas gemas de cor púrpuras nos olhos.</p>
-        <p>Apesar de Ser uma adaga, não possui fio ou ponta, foi lhe dado por sua tutora Sigil no dia que ela saiu de sua vida. Para Lilui, esse é o seu bem mais precioso.</p>
+        <description>
+            <p>Foco Arcano, uma adaga de lâmina negra com cabo estilizado para parecer um crânio de ravena, com duas gemas de cor púrpuras nos olhos.</p>
+            <p>Apesar de Ser uma adaga, não possui fio ou ponta, foi lhe dado por sua tutora Sigil no dia que ela saiu de sua vida. Para Lilui, esse é o seu bem mais precioso.</p>
+        </description>
+        <setters>
+			<set name="category">Spellcasting Focus</set>
+			<set name="cost" currency="gp">5</set>
+			<set name="weight" lb="1">1 lb.</set>
+			<set name="container">Ceremonial Dagger</set>
+			<set name="slot">onehand</set>
+		</setters>
     </element>
 
 </elements>
