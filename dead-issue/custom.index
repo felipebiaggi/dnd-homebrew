@@ -16,4 +16,6 @@
     <!-- spells-->
     <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/spells.index"/>
     
+    <!-- items-->
+    <file name="ceremonial-dagger.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/spellcasting-focus/ceremonial-dagger.xml"/>
 </index>

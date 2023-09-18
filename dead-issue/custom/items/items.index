@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Dead Issue Homebrew Items</name>
+        <update version="0.0.1">
+            <file name="items.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/items.index"/>
+        </update>
+    </info>
+    <files>
+        <file name="ceremonial-dagger.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/spellcasting-focus/ceremonial-dagger.xml"/>
+    </files>
+</index>
