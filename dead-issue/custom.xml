@@ -7,4 +7,5 @@
             <file name="custom.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.xml"/>
         </update>
     </info>
+    <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
 </index>

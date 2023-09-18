@@ -11,8 +11,8 @@
 		</description>
 		<setters>
 			<set name="abbreviation">DEH</set>
-			<set name="official">true</set>
-			<set name="core">true</set>
+			<set name="official">false</set>
+			<set name="core">false</set>
 			<set name="release">20230101</set>
 		</setters>
 	</element>
