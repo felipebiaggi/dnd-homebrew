@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
-    <info><b>Lady of Shadow and Mystery</b></info>
-    <description><i>Habilidade Mítica(lv 1). Passiva</i></description>
-    <update version="0.0.1">
-        <file name="lady-of-shadow-and-mystery.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/lady-of-shadow-and-mystery.xml" />
-    </update>
+    <info><b>Lady of Shadow and Mystery</b>
+        <description><i>Habilidade Mítica(lv 1). Passiva</i></description>
+        <update version="0.0.1">
+            <file name="lady-of-shadow-and-mystery.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/lady-of-shadow-and-mystery.xml" />
+        </update>
+    </info>
 
     <element name="Lady of Shadow and Mystery" type="Item" source="Dead Issue Homebrew" id="ID_HOMEBREW_LADY_OF_SHADOW_AND_MYSTERY">
         <description>
