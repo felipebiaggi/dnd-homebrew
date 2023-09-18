@@ -11,5 +11,5 @@
     <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
 
     <!-- backgrounds -->
-    
+    <file name="background-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/backgrounds/background-lilue.xml" />
 </index>
