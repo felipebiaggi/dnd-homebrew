@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<elements>
-	<element name="Ignan" type="Language" source="Dead Issues Homebrew" id="ID_HOMEBREW_LANGUAGE_IGNAN">
-		<supports>Standard</supports>
-		<description>
-			<p>Language bestowed by members of the Imix Church.</p>
-		</description>
-	</element>
-</elements>

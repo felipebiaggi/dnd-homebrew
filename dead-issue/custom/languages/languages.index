@@ -6,7 +6,15 @@
             <file name="languages.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index"/>
         </update>
     </info>
-    <files>
-        <file name="ignan.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/languages/ignan.xml" />
-    </files>  
+    <element name="Ignan" type="Language" source="Dead Issues Homebrew" id="ID_HOMEBREW_LANGUAGE_IGNAN">
+		<supports>Exotic</supports>
+		<description>
+			<p>Language bestowed by members of the Imix Church.</p>
+		</description>
+        <setters>
+			<set name="exotic">true</set>
+			<set name="speakers">Elementals</set>
+			<set name="script">Dwarvish</set>
+		</setters>
+	</element>
 </index>
