@@ -3,7 +3,7 @@
     <info>
         <name>Dead Issue Homebrew Languages</name>
         <update version="0.0.1">
-            <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index"/>
+            <file name="languages.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index"/>
         </update>
     </info>
     <files>
