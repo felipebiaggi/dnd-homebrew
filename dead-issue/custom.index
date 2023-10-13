@@ -21,4 +21,8 @@
 
     <!-- feats-->
     <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/feats.index" />
+
+    <!-- languages-->
+    <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index" />
+
 </index>
