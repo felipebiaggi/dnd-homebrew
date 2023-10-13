@@ -23,6 +23,9 @@
             <p><b>Nota²:</b> É possível compartilhar estas visões com pessoas que estejam em contato físico direto quando estas ocorrem</p>
         </description>
         <sheet usage="1/Long Rest – possibilidade de falha">
+            <description>
+                Capacidade de acessar memórias contidas em certos objetos.
+            </description>
         </sheet>
     </element>
 </elements>
