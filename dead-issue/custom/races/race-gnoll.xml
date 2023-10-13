@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Gnoll</name>
+		<description></description>
+		<author url="https://www.dandwiki.com/wiki/Gnoll_(5e_Race)">Dand Wiki</author>
+		<update version="0.0.1">
+			<file name="race-gnoll.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/races/race-gnoll.xml" />
+		</update>
+    </info>
+    <element name="Gnoll" type="Race" source="Dead Issue Homebrew" id="ID_RACE_HOMEBREW_GNOLL">
+        <description>
+            <p class="flavor">Gnolls are infamous among races such as humans and elves for their brutality and demonic heritage. For the most part, they aren't wrong. Many gnoll packs are indeed aggressive and have a demonic side to their affairs. Typically they worship the demon lord Yeenoghu. They also tend to be rather aggressive and are still mistrusted and avoided. To them, the pack is more important than anything else.</p>
+            <h4>Physical Description</h4>
+            <p class="indent">Demon-worshiping is not the only reason many races are wary of gnolls. A lean, hyena-headed muscular 7-foot tall gnoll can be an imposing sight. Despite their musculature, they move rather quickly, easily outpacing most other races. Gnolls also outpace most other races in how quickly they mature. A gnoll matures by the age of 5 and lives to be about 30. Oddly a gnoll's vitality will remain with them until very soon before their natural death.</p>
+            <p class="indent">Gnolls have reflective eyes that are typically bright green or yellow. They also have a thick coat of fur, which is generally light brown or dark brown. Certain clans may possess a single-colored coat or a spotted or striped coat. Some gnolls possess crest like manes of hair going from their head down their spine which rise up when they become frightened or angry.></p>
+            <p class="indent">Adding to other races distrust about gnolls, occasionally a gnoll's demonic ancestry will result in peculiar physical traits. This might be manifested in the claws of gnoll claw fighters or an abnormal eye or coat colors.</p>
+            <h4>History</h4>
+            <p class="indent">Gnolls are widely known as raiders and slavers. In the middle of the night, they attack a village or town, killing and eating guards and taking slaves. These slaves are then brutalized physically and mentally. This has become an art among many gnoll tribes. In fact, many gnoll tribes have “tantekurash” or “spirit breakers” who are experts at breaking the wills of slaves. If the slave resists, it is eaten. Occasionally a slave’s mind becomes so broken they revere the brutality of their gnoll captors. They then become “kryshantel” or “savage souls” who follow their gnoll masters into battle as thralls.</p>
+            <p class="indent">However, not all gnoll tribes are evil. There are a scattered few nomadic tribes who specialize as hunters and trappers. They may even come to peacefully interact with other races and often offer their service as hunters or trappers. Even so, they remain fairly aggressive and quick to anger, so other races have to be careful not to offend them.</p>
+            <p class="indent">In addition to the typical variety of gnoll, there is a sub-race known as flind gnolls. They tend to be shorter and stouter than other gnolls, use flindbars more commonly, and live in more hilly areas than other gnolls who live in plains. Flind gnolls can be either raiders or hunters as described above. If you want to play a flind gnoll, make yourself somewhat short and stout and consider using a flindbar.</p>
+            <h4>Society</h4>
+            <p class="indent">While there may be struggles within packs to determine who the alpha is, throughout these conflicts, both sides remain allies. To gnolls, the good of the pack is far more important than any personal glory. As a result, gnolls can be loyal to a fault to their chosen pack. In battle gnolls strive endlessly to prevent their packmates from being harmed, even taking an injury themselves.</p>
+            <p class="indent">Furthermore, a gnoll's mind is undeniably primal. They are natural predators and love the thrill and challenge of the hunt. This has resulted in a few traits in most gnolls. For the most part, gnolls prefer the wilds to any sort of urban area, though there are exceptions who see a city as a unique form of wilderness. Moreover, gnolls typically avoid diplomacy in favor of intimidating an answer out of others. It is simpler that way.</p>
+            <h4>Gnoll Names</h4>
+            <p>The brutality of gnolls is reflected even in their names which tend to have many harsh consonants.</p>
+            <p>
+                <b>Male Names:</b> Dagnyr, Dhyrn, Doryc, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Hyrn, Lhoryn, Lhyr, Mognyr, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych <br/>
+                <b>Female Names:</b> Dagnyra, Gnara, Gnora, Gnyrl, Hyra, Hyrgna, Lhyra, Lhyrl, Malgna, Myrl, Sargna, Shyrla, Tarnyra, Yrgna <br/>
+            </p>
+            <h4>Gnoll Traits</h4>
+            <p>Gnolls are brutal hunters with a demonic ancestry who are fiercely loyal to their pack.</p>
+            <p class="indent"><b><i>Ability Score Increase.</i></b> Your Strength score increases by 2 and your Dexterity score increases by 1.</p>
+            <p class="indent"><b>Age.</b> Gnolls reach adulthood by the age of 5 and live to around 30.</p>
+            <p class="indent"><b>Alignment.</b> Gnolls are usually chaotic neutral or evil, though there are exceptions.</p>
+            <p class="indent"><b>Size.</b> Most gnolls are between 6 and 7 feet tall. Your size is Medium.</p>
+            <p class="indent"><b>Speed.</b> Your base walking speed is 30 feet.</p>
+            <p class="indent"><b>Darkvision.</b> You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.</p>
+            <p class="indent"><b>Bite.</b> You can make unarmed strikes using your bite as a natural melee weapon. You are proficient with your bite attack, which deals piercing damage equal to 1d6 plus your Strength modifier.</p>
+            <p class="indent"><b>Rampage.</b> When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make a bite attack.</p>
+            <p class="indent"><b>Frightful Appearance.</b> You gain proficiency in the Intimidation skill.</p>
+            <p class="indent"><b>Languages.</b> You can speak, read, and write Common and Gnoll. You can also understand spoken Abyssal, but not speak, read or write it unless learnt through other features.</p>
+        </description>
+        <sheet display="false" />
+        <setters>
+            <set name="names" type="male">Dagnyr, Dhyrn, Doryc, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Hyrn, Lhoryn, Lhyr, Mognyr, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych</set>
+			<set name="names" type="female">Dagnyra, Gnara, Gnora, Gnyrl, Hyra, Hyrgna, Lhyra, Lhyrl, Malgna, Myrl, Sargna, Shyrla, Tarnyra, Yrgna</set>
+            <set name="height" modifier="2d6">5'11"</set>
+			<set name="weight" modifier="2d4">210 lb.</set>
+        </setters>
+        <rules>
+            <stat name="strength" value="2" requirements="!ID_HOMEBREW_GRANTS_GNOLL_VARIANT,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<stat name="dexterity" value="1" requirements="!ID_HOMEBREW_GRANTS_GNOLL_VARIANT,!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+            <select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Gnoll)" supports="Custom Ability Score Increase 2" requirements="!ID_HOMEBREW_GRANTS_GNOLL_VARIANT,ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +1 (Gnoll)" supports="Custom Ability Score Increase 1" requirements="!ID_HOMEBREW_GRANTS_GNOLL_VARIANT,ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+            <stat name="innate speed" value="30" bonus="base" />
+            <grant type="Size" id="ID_SIZE_MEDIUM" />
+            <grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<grant type="Language" id="ID_LANGUAGE_GNOLL" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+            <select type="Language" name="Customized Language" supports="Custom Race Language" number="2"  requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />        
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOLL_BITE" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOLL_RAMPAGE" />
+        </rules>
+    </element>
+    <element name="Bite" type="Racial Trait" source="Dead Issue Homebrew" id="ID_RACIAL_TRAIT_GNOLL_BITE">
+        <description>
+            <p>You can make unarmed strikes using your bite as a natural melee weapon. You are proficient with your bite attack, which deals piercing damage equal to 1d6 plus your Strength modifier.</p>
+        </description>
+        <sheet display="true">
+			<description>You can make unarmed strikes using your bite as a natural melee weapon. You are proficient with your bite attack, which deals piercing damage equal to 1d6 plus your Strength modifier.</description>
+		</sheet>
+    </element>
+
+    <element name="Rampage" type="Racial Trait" source="Dead Issue Homebrew" id="ID_RACIAL_TRAIT_GNOLL_RAMPAGE">
+        <description>
+            <p>When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make a bite attack.</p>
+        </description>
+        <sheet display="true">
+			<description>When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make a bite attack.</description>
+		</sheet>
+    </element>
+
+    <element name="Frightful Appearance" type="Racial Trait" source="Dead Issue Homebrew" id="ID_RACIAL_TRAIT_GNOLL_FRIGHTFUL_APPEARANCE">
+        <description>
+            <p>You gain proficiency in the Intimidation skill.</p>
+        </description>
+        <sheet display="false">
+			<description>You gain proficiency in the Intimidation skill.</description>
+		</sheet>
+        <rules>
+            <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+			<select type="Proficiency" name="Customized Skill Proficiency" supports="Skill" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+        </rules>
+    </element>
+</elements>
