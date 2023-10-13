@@ -2,27 +2,26 @@
 <index>
     <info>
         <name>Dead Issue Homebrew</name>
-        <description>Foo</description>
         <update version="0.0.1">
             <file name="custom.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.index"/>
         </update>
     </info>
+    <files>
+        <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
 
-    <file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml"/>
+        <!-- backgrounds -->
+        <file name="background-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/backgrounds/background-lilue.xml" />
 
-    <!-- backgrounds -->
-    <file name="background-lilue.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/backgrounds/background-lilue.xml" />
+        <!-- spells-->
+        <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/spells.index"/>
+        
+        <!-- items-->
+        <file name="items.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/items.index"/>
 
-    <!-- spells-->
-    <file name="spells.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/spells.index"/>
-    
-    <!-- items-->
-    <file name="items.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/items.index"/>
+        <!-- feats-->
+        <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/feats.index" />
 
-    <!-- feats-->
-    <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/feats.index" />
-
-    <!-- languages-->
-    <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index" />
-
+        <!-- languages-->
+        <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index" />
+    </files>
 </index>

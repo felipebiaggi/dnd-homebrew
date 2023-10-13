@@ -7,7 +7,6 @@
 	</info>
     <element name="Dead Issue Homebrew" type="Source" source="Core" id="ID_DEAR_ISSUE_HOMEBREW">
 		<description>
-			<p>Bar</p>
 		</description>
 		<setters>
 			<set name="url">https://github.com/felipebiaggi/dnd-homebrew/tree/master</set>
