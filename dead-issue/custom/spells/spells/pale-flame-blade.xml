@@ -4,7 +4,7 @@
     <info>
         <name>Spells</name>
         <description>Dead Issue Homebrew Spells</description>
-        <update version="0.0.2">
+        <update version="0.0.3">
             <file name="pale-flame-blade.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/cantrips/pale-flame-blade.xml" />
         </update>
     </info>
@@ -30,4 +30,19 @@
 			<set name="isRitual">false</set>
 		</setters>
     </element>
+
+	<element name="Pale-Flame Blade" type="Weapon" source="Homebrew - Dead Issue" id="ID_DEAD_ISSUE_HOMEBREW_WEAPON_PALE_FLAME_BLADE">
+		<requirements>ID_DEAD_ISSUE_HOMEBREW_SPELL_PALE_FLAME_BLADE</requirements>
+		<description>Pale-Flame Blade as Weapon.
+		</description>
+		<setters>
+			<set name="slot">onehand|twohand</set>
+		</setters>
+	</element>
+	
+	<append id="ID_HOMEBREW_SPELL_TO_WEAPON">
+		<rules>
+			<grant type="Weapon" id="ID_DEAD_ISSUE_HOMEBREW_WEAPON_PALE_FLAME_BLADE"/>
+		</rules>
+	</append>
 </elements>
