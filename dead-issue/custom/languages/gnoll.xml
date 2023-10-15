@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Languages - Homebrew - Dead Issues - Gnoll </name>
+        <update version="0.0.2">
+            <file name="gnoll.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/gnoll.xml"/>
+        </update>
+    </info>
+    <element name="Gnoll" type="Language" source="Homebrew - Dead Issue" id="ID_HOMEBREW_LANGUAGE_GNOLL">
+		<supports>Exotic</supports>
+		<description>
+			<p>You can speak, read, and write Gnoll.</p>
+		</description>
+        <setters>
+			<set name="exotic">true</set>
+			<set name="speakers">Gnolls</set>
+			<set name="script">Dwarvish</set>
+		</setters>
+	</element>
+</index>
