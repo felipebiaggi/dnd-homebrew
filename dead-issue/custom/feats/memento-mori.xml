@@ -2,11 +2,11 @@
 <elements>
     <info><b>Memento Mori</b>
         <description><i>Habilidade Mítica(lv 2). Ativa</i></description>
-        <update version="0.0.1">
+        <update version="0.0.2">
             <file name="memento-mori.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/memento-mori.xml" />
         </update>
     </info>
-    <element name="Memento Mori" type="Feat" source="Dead Issue Homebrew" id="ID_HOMEBREW_FEAT_MEMENTO_MORI">
+    <element name="Memento Mori" type="Feat" source="Homebrew - Dead Issue" id="ID_HOMEBREW_FEAT_MEMENTO_MORI">
         <description>
             <p>Como governante da Shadowfell, a Dama tem um papel essencial para com a ordem natural do universo – ou pelomenos é o que se acredita. Ela tem como dever, guiar as almas dos mortos através da Shadowfell em direção aos planos exteriores, seus “destinos finais” por assim dizer.</p>
             <p>Até onde se sabe porém, ela não é a responsável por julgar/decidir o destino de tais almas, o que torna sua fixação/desejo por mementos e memórias das mesmas... peculiar...</p>
