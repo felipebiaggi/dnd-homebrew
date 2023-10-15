@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
     <info>
-		<update version="0.0.2">
+		<update version="0.0.3">
 			<file name="source.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/source.xml" />
 		</update>
 	</info>
-    <element name="Dead Issue Homebrew" type="Source" source="Homebrew - Dead Issue" id="ID_DEAR_ISSUE_HOMEBREW">
+    <element name="Homebrew - Dead Issues" type="Source" source="Homebrew - Dead Issues" id="ID_DEAR_ISSUE_HOMEBREW">
 		<description>
 		</description>
 		<setters>

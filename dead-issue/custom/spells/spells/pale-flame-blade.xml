@@ -3,13 +3,13 @@
 <elements>
     <info>
         <name>Spells</name>
-        <description>Dead Issue Homebrew Spells</description>
+        <description>Homebrew - Dead Issues</description>
         <update version="0.0.3">
             <file name="pale-flame-blade.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/cantrips/pale-flame-blade.xml" />
         </update>
     </info>
 
-    <element name="Pale-Flame Blade" type="Spell" source="Homebrew - Dead Issue" id="ID_DEAD_ISSUE_HOMEBREW_SPELL_PALE_FLAME_BLADE">
+    <element name="Pale-Flame Blade" type="Spell" source="Homebrew - Dead Issues" id="ID_DEAD_ISSUE_HOMEBREW_SPELL_PALE_FLAME_BLADE">
         <supports>Sorcerer, Wizard, Warlock</supports>
         <description>
 			<p>You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 5 feet of you. On a hit, the target suffers the weapon attack’s normal effects, and you can cause pale fire to leap from the target to a different creature of your choice that you can see within 5 feet of it. The second creature takes cold damage equal to your spellcasting ability modifier.</p>
@@ -31,7 +31,7 @@
 		</setters>
     </element>
 
-	<element name="Pale-Flame Blade" type="Weapon" source="Homebrew - Dead Issue" id="ID_DEAD_ISSUE_HOMEBREW_WEAPON_PALE_FLAME_BLADE">
+	<element name="Pale-Flame Blade" type="Weapon" source="Homebrew - Dead Issues" id="ID_DEAD_ISSUE_HOMEBREW_WEAPON_PALE_FLAME_BLADE">
 		<requirements>ID_DEAD_ISSUE_HOMEBREW_SPELL_PALE_FLAME_BLADE</requirements>
 		<description>Pale-Flame Blade as Weapon.
 		</description>

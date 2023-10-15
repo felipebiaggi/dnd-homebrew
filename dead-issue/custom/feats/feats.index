@@ -2,8 +2,8 @@
 
 <index>
     <info>
-        <name>Dead Issue Homebrew Spells</name>
-        <update version="0.0.1">
+        <name>Homebrew - Dead Issues - Feats</name>
+        <update version="0.0.2">
             <file name="feats.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/feats.index" />
         </update>
     </info>

@@ -2,12 +2,12 @@
 <elements>
     <info><b>Lady of Shadow and Mystery</b>
         <description><i>Habilidade Mítica(lv 1). Passiva</i></description>
-        <update version="0.0.2">
+        <update version="0.0.3">
             <file name="lady-of-shadow-and-mystery.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/feats/lady-of-shadow-and-mystery.xml" />
         </update>
     </info>
 
-    <element name="Lady of Shadow and Mystery" type="Feat" source="Homebrew - Dead Issue" id="ID_HOMEBREW_FEAT_LADY_OF_SHADOW_AND_MYSTERY">
+    <element name="Lady of Shadow and Mystery" type="Feat" source="Homebrew - Dead Issues" id="ID_HOMEBREW_FEAT_LADY_OF_SHADOW_AND_MYSTERY">
         <description>
 			<p>É um fato conhecido entre os shadar-kai que a dama costuma comunicar-se através de sinais crípticos e misteriosos. É parte do dever de um shadar-kai interpretar tais sinais para que possam cumprir com a vontade da mesma.</p>
 			<p>No passado porém, existiu uma shadar-kai que recebia mensagens um tanto diferentes, em forma de visões.</p>

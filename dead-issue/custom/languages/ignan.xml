@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
     <info>
-        <name>Dead Issue Homebrew Languages</name>
-        <update version="0.0.2">
+        <name>Homebrew - Dead Issues</name>
+        <update version="0.0.3">
             <file name="ignan.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/ignan.xml"/>
         </update>
     </info>
-    <element name="Ignan" type="Language" source="Homebrew - Dead Issue" id="ID_HOMEBREW_LANGUAGE_IGNAN">
+    <element name="Ignan" type="Language" source="Homebrew - Dead Issues" id="ID_HOMEBREW_LANGUAGE_IGNAN">
 		<supports>Exotic</supports>
 		<description>
 			<p>Language bestowed by members of the Imix Church.</p>

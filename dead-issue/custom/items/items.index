@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
     <info>
-        <name>Dead Issue Homebrew Items</name>
-        <update version="0.0.1">
+        <name>Homebrew - Dead Issues</name>
+        <update version="0.0.2">
             <file name="items.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/items.index"/>
         </update>
     </info>

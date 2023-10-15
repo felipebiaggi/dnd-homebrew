@@ -4,11 +4,11 @@
         <name>Gnoll</name>
 		<description></description>
 		<author url="https://www.dandwiki.com/wiki/Gnoll_(5e_Race)">Dand Wiki</author>
-		<update version="0.0.6">
+		<update version="0.0.7">
 			<file name="races-gnoll.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/races/races-gnoll.xml" />
 		</update>
     </info>
-    <element name="Gnoll" type="Race" source="Homebrew - Dead Issue" id="ID_RACE_HOMEBREW_GNOLL">
+    <element name="Gnoll" type="Race" source="Homebrew - Dead Issues" id="ID_RACE_HOMEBREW_GNOLL">
         <description>
             <p class="flavor">Gnolls are infamous among races such as humans and elves for their brutality and demonic heritage. For the most part, they aren't wrong. Many gnoll packs are indeed aggressive and have a demonic side to their affairs. Typically they worship the demon lord Yeenoghu. They also tend to be rather aggressive and are still mistrusted and avoided. To them, the pack is more important than anything else.</p>
            
@@ -66,7 +66,7 @@
             <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOLL_FRIGHTFUL_APPEARANCE" />
         </rules>
     </element>
-    <element name="Bite" type="Racial Trait" source="Homebrew - Dead Issue" id="ID_RACIAL_TRAIT_GNOLL_BITE">
+    <element name="Bite" type="Racial Trait" source="Homebrew - Dead Issues" id="ID_RACIAL_TRAIT_GNOLL_BITE">
         <description>
             <p>You can make unarmed strikes using your bite as a natural melee weapon. You are proficient with your bite attack, which deals piercing damage equal to 1d6 plus your Strength modifier.</p>
         </description>
@@ -75,7 +75,7 @@
 		</sheet>
     </element>
 
-    <element name="Rampage" type="Racial Trait" source="Homebrew - Dead Issue" id="ID_RACIAL_TRAIT_GNOLL_RAMPAGE">
+    <element name="Rampage" type="Racial Trait" source="Homebrew - Dead Issues" id="ID_RACIAL_TRAIT_GNOLL_RAMPAGE">
         <description>
             <p>When you reduce a creature to 0 hit points with a melee attack on your turn, you may use a bonus action to move up to half your speed and make a bite attack.</p>
         </description>
@@ -84,7 +84,7 @@
 		</sheet>
     </element>
 
-    <element name="Frightful Appearance" type="Racial Trait" source="Homebrew - Dead Issue" id="ID_RACIAL_TRAIT_GNOLL_FRIGHTFUL_APPEARANCE">
+    <element name="Frightful Appearance" type="Racial Trait" source="Homebrew - Dead Issues" id="ID_RACIAL_TRAIT_GNOLL_FRIGHTFUL_APPEARANCE">
         <description>
             <p>You gain proficiency in the Intimidation skill.</p>
         </description>
