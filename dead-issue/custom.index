@@ -24,7 +24,7 @@
         <!-- languages-->
         <file name="languages.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index" />
     
-        <!-- Race-->
-        <file name="races-gnoll.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/races/races-gnoll.xml"/>
+        <!-- Races-->
+        <file name="races.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/races.index"/>
     </files>
 </index>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+    <info>
+        <name>Homebrew - Dead Issues</name>
+        <update version="0.0.3">
+            <file name="races.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/races.index"/>
+        </update>
+    </info>
+    <files>
+        <file name="races-gnoll.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/races/races-gnoll.xml" />
+    </files>
+</index>
