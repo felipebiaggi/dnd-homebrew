@@ -2,7 +2,7 @@
 <index>
     <info>
         <name>Homebrew - Dead Issues</name>
-        <update version="0.0.4">
+        <update version="0.0.5">
             <file name="custom.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom.index"/>
         </update>
     </info>
@@ -25,6 +25,6 @@
         <file name="languages.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/languages/languages.index" />
     
         <!-- Races-->
-        <file name="races.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/spells/races.index"/>
+        <file name="races.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/races/races.index"/>
     </files>
 </index>
