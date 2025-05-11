@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
     <info>
-        <name>Dead Issue Custom Spellcasting Focus</name>
+        <name>Dead Issue Custom Armor</name>
         <description></description>
         <update version="0.0.1">
-            <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armor/mithral-armor.xml"/>
+            <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armors/mithral-armor.xml"/>
         </update>
     </info>
 

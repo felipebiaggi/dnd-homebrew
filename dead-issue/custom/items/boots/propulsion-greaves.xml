@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Dead Issue Custom Item</name>
+        <description></description>
+        <update version="0.0.1">
+            <file name="propulsion-greaves.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/boots/propulsion-greaves.xml"/>
+        </update>
+    </info>
+
+    	<element name="Grevas de Propulsão" type="Magic Item" source="Homebrew - Dead Issues" id="ID_HOMEBREW_PROPULSION_GREAVES">
+		<description>
+			<p>Enquanto usando essa botas, o usuário tem a distância do High Jump aumentada em 20 feet e dispensa a necessidade de impulso.</p>
+		</description>
+		<setters>
+			<set name="keywords">jump</set>
+			<set name="category">Wondrous Items</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="weight" lb="0">0 lb.</set>
+			<set name="slot">feet</set>
+			<set name="type">Wondrous Item</set>
+			<set name="rarity">Rare</set>
+		</setters>
+	</element>
+</elements>
