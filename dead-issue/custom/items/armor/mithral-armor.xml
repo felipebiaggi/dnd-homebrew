@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Dead Issue Custom Spellcasting Focus</name>
+        <description></description>
+        <update version="0.0.1">
+            <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armor/mithral-armor.xml"/>
+        </update>
+    </info>
+
+    <element name="Mithral Armor, +1" type="Magic Item" source="Homebrew - Dead Issues" id="ID_HOMEBREW_MITHRAL_ARMOR_PLUS_1">
+		<description>
+			<p>Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.</p>
+		</description>
+		<setters>
+			<set name="keywords">medium, heavy</set>
+			<set name="category">Magic Armor</set>
+			<set name="cost" currency="gp">0</set>
+			<set name="slot">body</set>
+			<set name="type" addition="medium or heavy, but not hide">Armor</set>
+			<set name="rarity">Rare</set>
+            <set name="enhancement">1</set>
+			<set name="armor">(ID_INTERNAL_ARMOR_GROUP_MEDIUM||ID_INTERNAL_ARMOR_GROUP_HEAVY),!Hide</set>
+			<set name="name-format">Mithral {{parent}} +{{enhancement}}</set>
+		</setters>
+		<rules>
+			<grant type="Grants" id="ID_INTERNAL_GRANTS_IGNORE_STEALTH_DISADVANTAGE" />
+			<grant type="Grants" id="ID_INTERNAL_GRANT_ARMOR_IGNORE_STRENGTH_REQUIREMENT" />
+            <stat name="ac:armored:enhancement" value="1" bonus="enhancement" />
+		</rules>
+	</element>	
+
+</elements>

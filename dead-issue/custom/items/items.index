@@ -2,11 +2,12 @@
 <index>
     <info>
         <name>Homebrew - Dead Issues</name>
-        <update version="0.0.2">
+        <update version="0.0.3">
             <file name="items.index" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/items.index"/>
         </update>
     </info>
     <files>
         <file name="ceremonial-dagger.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/spellcasting-focus/ceremonial-dagger.xml"/>
+        <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armor/mithral-armor.xml"/>
     </files>
 </index>
