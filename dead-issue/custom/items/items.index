@@ -8,7 +8,7 @@
     </info>
     <files>
         <file name="ceremonial-dagger.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/spellcasting-focus/ceremonial-dagger.xml"/>
-        <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armor/mithral-armor.xml"/>
+        <file name="mithral-armor.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/armors/mithral-armor.xml"/>
         <file name="propulsion-greaves.xml" url="https://raw.githubusercontent.com/felipebiaggi/dnd-homebrew/master/dead-issue/custom/items/boots/propulsion-greaves.xml"/>
     </files>
 </index>
